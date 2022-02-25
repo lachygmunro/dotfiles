@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lachlangmunro@gmail.com
+	name = Lachlan Munro
